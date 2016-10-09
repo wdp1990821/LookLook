@@ -1,6 +1,6 @@
 # LookLook 
 
-This is a reading news app. you can read Zhihu Daily， News and some pictures.User experience is amasing.The project is updating, welcome Star and Fork.
+This is a reading news app. you can read Zhihu Daily， News and some pictures.User experience is amasing.The project is updating, welcome to Star and Fork.
 
 
 
@@ -10,9 +10,8 @@ This is a reading news app. you can read Zhihu Daily， News and some pictures.U
 <img src="screenshots/LookLook.gif" width="300" align="right" hspace="20">
 <img src="screenshots/zhihu.png" width="25%" />
 <img src="screenshots/meizi.png" width="25%" />
-<img src="screenshots/about.png" width="25%" />
 <img src="screenshots/navigation.png" width="25%" />
-
+<img src="screenshots/about.png" width="25%" />
 
 
 
